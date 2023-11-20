@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InjBabou
-- 👀 I’m interested in drill
+- 👀 I’m interested in Drill
 - 🌱 I’m currently learning SOD
 - 💞️ I’m looking to collaborate on GIT
 - 📫 How to reach me ...
